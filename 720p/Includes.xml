@@ -1,4 +1,4 @@
-﻿<includes>
+﻿ <includes>
 	<include file="Defaults.xml" />
 	<include file="HomeMenu.xml" />
 	<include file="HomeSubMenu.xml" />
